@@ -13,9 +13,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://giudicirni.github.io/Leonardo's lily and wave patterns /manifests/Leonardo-lily-waves-patterns",
     "label" : "Leonardo da Vinci's Fable and Emblem of the Lily"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://giudicirni.github.io/Leonardo's lily and wave patterns /manifests/table-of-content-manifest.json",
-    "label" : "Durham University Library. Cosin Manuscript V.ii.6 - Symeon of Durham, History of the church at Durham"
   } ]
 }
