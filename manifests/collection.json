@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://giudicirni.github.io/Leonardo's lily and wave patterns /manifests/Leonardo-lily-waves-patterns",
     "label" : "Leonardo da Vinci's Fable and Emblem of the Lily"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://giudicirni.github.io/Leonardo's lily and wave patterns /manifests/manifest-leo.json",
+    "label" : "Leonardo da Vinci's Fable and Emblem of the Lily"
   } ]
 }
