@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://giudicirni.github.io/Leonardo's lily and wave patterns /annotations/annotations1.json" ],
+  "otherContent" : [ "https://giudicirni.github.io/Leonardo's lily and wave patterns /annotations/annotations1.json", "https://giudicirni.github.io/Leonardo's lily and wave patterns /annotations/annotations2.json" ],
   "@id" : "https://giudicirni.github.io/Leonardo's lily and wave patterns /annotations/collection.json",
   "label" : "All annotations loaded in giudicirni/Leonardo-s-lily-and-wave-patterns- project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
