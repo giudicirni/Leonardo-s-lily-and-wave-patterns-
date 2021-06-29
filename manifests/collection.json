@@ -1,0 +1,13 @@
+{
+  "id" : "https://giudicirni.github.io/Leonardo's lily and wave patterns /manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in giudicirni/Leonardo-s-lily-and-wave-patterns- project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://giudicirni.github.io/Leonardo's lily and wave patterns /manifests/manifest_leo.json",
+    "label" : "Leonardo da Vinci's Fable and Emblem of the Lily"
+  } ]
+}
